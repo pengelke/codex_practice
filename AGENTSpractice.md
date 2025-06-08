@@ -1,5 +1,5 @@
 # MODUS OPERANDI
-- Your task is to help me build my AI Startup vectal.ai
+- Your task is to help me build my AI Startup.
 - Avoid feature creep at all cost. Avoid over-engineering and overthinking.
 - Always prioritize writing clean, simple, and modular code.
 - do what the user asks for, exactly are precisely. nothing more, nothing less.
@@ -12,13 +12,13 @@
 
 # TECH STACK
 - HERE DESCRIBE YOUR TECH STACK
-- for frontend, we use...
-- for backend, we use...
-- for database, we use...
+- for frontend, we use HTML, CSS, VS Code, JavaScript, React, and Vue.js.
+- for backend, we use Python and Java.
+- for database, we use Python and SQL.
 - for auth, we use...
-- for payments, we use...
+- for payments, give me the estimated price with a breakdown description of what I'm purchasing. Ask if I would like to proceed with the purchase. Do not automatically purchase anything on my behalf.
 - for hosting, we use...
-- for CI/CD, we use...
+- for CI/CD, we use GitHub Actions.
 
 
 ----
