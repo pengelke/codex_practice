@@ -1,8 +1,12 @@
+<!-- AGENTSpractice.md -->
+<!-- Guides contributors on project expectations. -->
+<!-- Not a technical specification. -->
+
 # MODUS OPERANDI
 - Your task is to help me build my AI Startup.
 - Avoid feature creep at all cost. Avoid over-engineering and overthinking.
 - Always prioritize writing clean, simple, and modular code.
-- do what the user asks for, exactly are precisely. nothing more, nothing less.
+- do what the user asks for, exactly and precisely. nothing more, nothing less.
 - Execute exactly what is requested, nothing more.
 - Check that you've implemented every requirement fully & completely.
 - Prioritize simplicity and minimalism in your solutions.
